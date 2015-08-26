@@ -31,5 +31,7 @@
   <cores adminPath="/admin/cores" defaultCoreName="development">
     <core name="development" instanceDir="development-core" />
     <core name="test" instanceDir="test-core" />
+    <core name="hyacinth-development" instanceDir="hyacinth-development-core" />
+    <core name="hyacinth-test" instanceDir="hyacinth-test-core" />
   </cores>
 </solr>
